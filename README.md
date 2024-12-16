@@ -1,6 +1,8 @@
 # Lista de Compras
 É exibida uma página que permite criar uma lista de compras de forma dinâmica utilizando HTML e Javascript.
 
+Veja o projeto: https://alvaroduda.github.io/Lista-de-Compras/
+
 ---
 Os objetivos são:
 1. Adicionar elementos em uma tabela.
